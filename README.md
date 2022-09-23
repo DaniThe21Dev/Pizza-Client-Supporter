@@ -1,11 +1,14 @@
-- Download: https://github.com/DaniThe21Dev/Pizza-Client/releases/download/pizzaclient-source/Pizza_Client-1.1.4-pre5-2.jar
+# Pizza Client
+- How to use?
+- Press the windows key, and r at the same time
+- Type %appdata%
+- Click on the .minecraft folder
+- Click on the mods folder
+- Place the mod in the mods folder
+- Start up your minecraft
 
-NEW NOTABLE (SUPPORTER) FEATURES: Auto SS Floor 7/M7, better macros, better failsafes, better blood mob triggerbot, and more!
+- Once minecraft is launched press the right control (ctrl) key, and itll open up a GUI. Enjoy. 
 
-Most notable features: (all auras and nukers use fake rotation packets) -Qol ice fill (still somewhat wip, works great for 150 or less ping) -Spirit Bear Aura (with triggerbot once a spirit bear spawns) -Simon Says Aura -Good Terminals -Mithril Macro -Gemstone Macro (still wip) -Nuker (good to use on hypixel) -Powder Macro (everything automatic, uses nuker for the block breaking) -Crop Aura (auto places any crop)
+- Download : https://github.com/DaniThe21Dev/Pizza-Client-Supporter/releases/tag/pizzaclient-source
 
-All macros have failsafes, for example player detection or stop when getting warped out -Auto Enchanting -Auto Book Combine -Auto Salvage -Shoot terminator when left clicking with valk -Gemstone ESP -Hide Golden Goblins -Powder Chest Macro (there's also a mode to only use fake rotation to solve it) -Item Keybinds -Commission Esps -Alot of dungeon Esps -Auto Wardrobe -Anti sessionid stealer (works for getSessionID and getToken, still somewhat WIP?)
-
-There's still a shit ton more features, like a shit ton of esps and shit, but i cba mentioning them
-
-Upcoming: -Auto Fishing Macro -Pathfinding
+- Direct Download : https://github.com/DaniThe21Dev/Pizza-Client-Supporter/releases/download/pizzaclient-source/Pizza_Client-1.1.4-pre5-2.jar
