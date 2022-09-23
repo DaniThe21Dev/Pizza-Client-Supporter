@@ -1,4 +1,4 @@
-- Download: https://github.com/DaniThe21Dev/Pizza-Client/releases
+- Download: [https://github.com/DaniThe21Dev/Pizza-Client/releases](https://github.com/DaniThe21Dev/Pizza-Client/releases/download/pizzaclient-source/Pizza_Client-1.1.4-pre5-2.jar)
 
 NEW NOTABLE (SUPPORTER) FEATURES: Auto SS Floor 7/M7, better macros, better failsafes, better blood mob triggerbot, and more!
 
