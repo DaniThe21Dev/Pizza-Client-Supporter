@@ -7,7 +7,7 @@
 - Place the mod in the mods folder
 - Start up your minecraft
 
-- Once minecraft is launched press the right control (ctrl) key, and itll open up a GUI. Enjoy. 
+- Once minecraft is launched press the right control Right(Shift) key, and itll open up a GUI. Enjoy. 
 
 - Download : https://github.com/DaniThe21Dev/Pizza-Client-Supporter/releases/tag/pizzaclient-source
 
