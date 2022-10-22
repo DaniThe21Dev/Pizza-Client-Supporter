@@ -11,4 +11,4 @@
 
 - Download : https://github.com/DaniThe21Dev/Pizza-Client-Supporter/releases/tag/pizzaclient-source
 
-- Direct Download : https://github.com/DaniThe21Dev/Pizza-Client-Supporter/releases/download/pizzaclient-source/Pizza_Client-1.1.4-pre5-2.jar
+- Direct Download : https://github.com/DaniThe21Dev/Pizza-Client-Supporter/releases/download/pizzaclient-source/Pizza_Client-2.01-Membership.jar
